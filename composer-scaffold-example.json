@@ -8,6 +8,7 @@
                 "[web-root]/.htaccess": false,
                 "[web-root]/robots.txt": false,
                 "[web-root]/sites/development.services.yml": false,
+                "[web-root]/README.md": false
             }
         }
     }
