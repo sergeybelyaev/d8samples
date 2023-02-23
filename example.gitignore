@@ -53,3 +53,19 @@ sites/simpletest
 /.env
 
 node_modules
+
+.DS_Store
+.vscode
+Thumbs.db
+/.editorconfig
+/.gitattributes
+
+/*.sql
+/dump.bat
+/restore.bat
+
+/.cache/
+/.config/
+/.local/
+
+.bash_history

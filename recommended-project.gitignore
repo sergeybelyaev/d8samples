@@ -30,3 +30,13 @@ Thumbs.db
 .idea
 *.log
 *.map
+
+/*.sql
+/dump.bat
+/restore.bat
+
+/.cache/
+/.config/
+/.local/
+
+.bash_history
