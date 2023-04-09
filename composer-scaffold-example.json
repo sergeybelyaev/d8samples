@@ -5,7 +5,6 @@
                 "web-root": "web/"
             },
             "file-mapping": {
-                "[web-root]/robots.txt": false,
                 "[web-root]/sites/development.services.yml": false
             }
         }
